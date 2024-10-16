@@ -9,11 +9,13 @@
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=whit">
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/C Sharp-00599C?style=for-the-badge&logo=C++&logoColor=white">
 </br>
 <img src="https://img.shields.io/badge/oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white">
 <img src="https://img.shields.io/badge/Steam-6EBE49?style=for-the-badge&logo=Steam&logoColor=white">
-<img src="https://img.shields.io/badge/cisco-1BA0D7?style=for-the-badge&logo=cisco-1BA0D7&logoColor=white">
+<img src="https://img.shields.io/badge/cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+<img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white">
 </br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
